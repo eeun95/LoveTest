@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoveTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="main_title">Let\'s find out\nour love type</string>
+    <string name="next">➡️</string>
+    <string name="previous">⬅️</string>
+    <string name="home">🏠</string>
+    <string name="question">어쩌구 저쩌구 골라보세요\n심리테스트 ~~~~~</string>
+</resources>
